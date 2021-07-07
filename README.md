@@ -1,2 +1,3 @@
 # FlappyBird
-My version of flappy bird
+My version of flappy bird (not ready yet)
+
